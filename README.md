@@ -41,6 +41,7 @@ The CNN achieved the following performance:
 - Training Accuracy: ~91%
 - Validaiton Accuravy: ~89%
 - Validation Loss: ~0.31
+- Running the script, accuracy, loss, val_accuracy, and val_loss all show in the terminal 
 
 Training and validation accuracy and loss over 10 epochs.
 
